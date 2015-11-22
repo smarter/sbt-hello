@@ -1,0 +1,6 @@
+[repositories]
+  local
+  jcenter: https://jcenter.bintray.com/
+  typesafe-ivy-releases: https://repo.typesafe.com/typesafe/ivy-releases/, [organization]/[module]/[revision]/[type]s/[artifact](-[classifier]).[ext], bootOnly
+  smarter-ivy-sbt: https://dl.bintray.com/smarter/ivy-sbt/, [organization]/[module]/[revision]/[type]s/[artifact](-[classifier]).[ext]
+  maven-central
